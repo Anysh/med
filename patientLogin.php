@@ -1,5 +1,5 @@
 <?php
-//otrzymane z index php po kliknięciu terminu wizyty
+
 $appointmentId = $_REQUEST['id'];
 
 ?>

@@ -1,5 +1,6 @@
 <?php
-require_once('./config.php');
+require_once('.config.php');
 
-$smarty->display("index.tpl");
+$smarty->display('index.tpl');
+
 ?>
